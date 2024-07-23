@@ -1,4 +1,4 @@
-## Summary
+## AdGen: Largescale Multimodal Advertisement Dataset
 
 We have introduced ADGen, a Text-Image-Video dataset, that comprises 720 variable-length videos totaling 24 hours, along with corresponding images, and text captions across 15 categories, including Entertainment, Education, and Sports. 
 
